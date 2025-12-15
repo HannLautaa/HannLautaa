@@ -28,6 +28,7 @@
 ## About Me
 - **Major:** Statistics  
 - **School:** Padjadjaran University  
+- **Website**: [Portfolio](https://portfolio-zeta-indol.vercel.app/)  
 - Interested in **data science**, **machine learning**, and **analytics**
 
 ## Tech Stack
